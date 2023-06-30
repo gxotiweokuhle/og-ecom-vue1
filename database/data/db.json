@@ -1,0 +1,139 @@
+{
+    "products": [
+       {
+        "id": 1,
+        "image": "https://i.postimg.cc/gJz9JYdk/product1.jpg",
+        "itemname": "Barbie Crew Neck",
+        "price":300,
+        "desc": "A comfy, relaxed fit with rib cuffs, neck and hem to keep warmth in Chilly Barbie winter.",
+        "quantity": 5
+        
+       },
+       {
+        "id": 2,
+        "image": "https://i.postimg.cc/SQZ4nzn0/2.jpg",
+        "itemname": "Barbie Crew Sock",
+        "price":100,
+        "desc": "Comfy Cute socks for cozy barbie winter.",
+        "quantity": 5
+
+
+        
+       },
+       {
+        "id": 3,
+        "image": "https://i.postimg.cc/xThSRDGt/3.jpg",
+        "itemname": "Barbie  Tee",
+        "price":250,
+        "desc": " A comfy, relaxed fit with a trending drop shoulder design, this t-shirt features all their fave character.",
+        "quantity": 5
+        
+       },
+       {
+        "id": 4,
+        "image": "https://i.postimg.cc/rpLXB1P4/4.jpg",
+        "itemname": "Barbie Kids Cap",
+        "price":200,
+        "desc": "Top off their looks with the Kids Licensed Cap. With classic baseball styling for a cool look, this hat features a fully adjustable strap at the back for a comfy feel.",
+        "quantity": 5
+       },
+       {
+        "id": 5,
+        "image": "https://i.postimg.cc/nhmfSR0Z/5.jpg",
+        "itemname": "Peta Parachute Pant",
+        "price":300,
+        "desc": "Stylish pant to match a barbie tee.",
+        "quantity": 5
+       },
+       {
+        "id": 6,
+        "image": "https://i.postimg.cc/nLYbpXyP/6.jpg",
+        "itemname": "Barbie Belt Bag",
+        "price":300,
+        "desc": "Cute bag to complete the barbie outfit!",
+        "quantity": 5
+       },
+       {
+        "id": 7,
+        "image": "https://i.postimg.cc/g07S73tb/7.jpg",
+        "itemname": "Barbie Crew Neck",
+        "price":400,
+        "desc": "A comfy, relaxed fit with rib cuffs, neck and hem to keep warmth in Chilly Barbie winter.",
+        "quantity": 5
+       },
+       {
+        "id": 8,
+        "image": "https://i.postimg.cc/7hkVv9gd/8.jpg",
+        "itemname": "Barbie Crew Sock",
+        "price":100,
+        "desc": "Comfy Cute socks for cozy barbie winter.",
+        "quantity": 5
+       },
+       {
+        "id": 9,
+        "image": "https://i.postimg.cc/sxspHXzR/9f.jpg",
+        "itemname": "Unicorn Kids Cap",
+        "desc":"Unicorn cap for kids too look cool and complete the outfit!",
+        "price":200,
+        "quantity": 5
+       },
+       {
+        "id": 10,
+        "image": "https://i.postimg.cc/3r1pJ37d/10.jpg",
+        "itemname": "Barbie Crew Tee",
+        "price":300,
+        "desc": " A comfy, relaxed fit with a trending drop shoulder design, this t-shirt features all their fave character.",
+        "quantity": 5
+       },
+       {
+        "id": 11,
+        "image": "https://i.postimg.cc/t4W4JzP2/11.jpg",
+        "itemname": "Erika Pant",
+        "price":300,
+        "desc": "Stylish pant to match a barbie tee.",
+        "quantity": 5
+       },
+       {
+        "id": 12,
+        "image": "https://i.postimg.cc/50RVnHLX/12.jpg",
+        "itemname": "Ken Belt Bag",
+        "price":300,
+        "desc": "Ken Belt bag is unisex and used as an accessory.",
+        "quantity": 5
+       },
+       {
+        "id": 13,
+        "image": "https://i.postimg.cc/dtPWgzrW/13.jpg",
+        "itemname": "Sunny Beach Slide",
+        "price":100,
+        "desc": "The Sunny Beach Slide is the ultimate summer shoe. Its easy on-and-off style makes it perfect for between swims and keeps feet comfy-cool on warm days.",
+        "quantity": 5
+       },
+       {
+        "id": 14,
+        "image": "https://i.postimg.cc/59vg5nT8/14.jpg",
+        "itemname": " Kids Flip Flop",
+        "price":80,
+        "desc": "Our fun Printed Flip Flops are here to brighten up beach and pool days.",
+        "quantity": 5
+       },
+       {
+        "id": 15,
+        "image": "https://i.postimg.cc/5t21LHtF/15.jpg",
+        "itemname": "Bucket Hat",
+        "price":100,
+        "desc": "Two hats in one! Keep your mini protected from the sun all summer long with these reversible bucket hats.",
+        "quantity": 5
+       },
+       {
+        "id": 16,
+        "image": "https://i.postimg.cc/rphVpwsV/16.jpg",
+        "itemname": "Kids Sunglasses",
+        "price":120,
+        "desc": "Every kid needs a go-to pair of sunnies–and these Recycled Sunglasses are it. Keep them handy so they can grab them on the go and enjoy sunny days without the glare.",
+        "quantity": 5
+       }
+
+
+    ]
+}
