@@ -16,13 +16,13 @@ export default createStore({
   },
   actions: {
     getProducts: async (context) => {
-      fetch("https://github.com/gxotiweokuhle/gxotiweokuhle.github.io")
+      fetch("https://gxotiweokuhle.github.io/data/db.json")
       .then((res) => res.json())
       .then((products) => context.commit('setProducts', products));
 
     },
     getProduct: async (context, id) => {
-      fetch("https://github.com/gxotiweokuhle/gxotiweokuhle.github.io" + id)
+      fetch("https://gxotiweokuhle.github.io/data/db.json" + id)
       .then((res) => res.json())
       .then((product) => context.commit('setProduct', product));
 
